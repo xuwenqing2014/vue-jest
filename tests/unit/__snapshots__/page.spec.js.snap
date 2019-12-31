@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试mount和shadow 增加快照 1`] = `
+<div>
+  <pagechild-stub
+    messages="aaa,bbb"
+  />
+</div>
+`;
